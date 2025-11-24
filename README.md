@@ -6,5 +6,5 @@ LABORATORY 7
 Result : 404 not fouund
 
 3. Successful POST
+<img width="1087" height="518" alt="image" src="https://github.com/user-attachments/assets/d1a66298-1168-4dac-8bec-b73aec7780bf" />
 
-<img width="1089" height="552" alt="image" src="https://github.com/user-attachments/assets/8b167a34-9b33-4b8a-9494-bea00b060daa" />
