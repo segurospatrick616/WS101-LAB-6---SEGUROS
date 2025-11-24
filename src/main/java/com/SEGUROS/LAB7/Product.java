@@ -5,7 +5,7 @@ public class Product {
     private String name;
     private Double price;
 
-    // 1. Empty Constructor (Kailangan ito ng Spring)
+
     public Product() {
     }
 
@@ -16,7 +16,7 @@ public class Product {
         this.price = price;
     }
 
-    // 3. MANUAL GETTERS & SETTERS (Para mawala ang error sa getId/setId)
+    
 
     public Long getId() {
         return id;
